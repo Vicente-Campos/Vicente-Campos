@@ -1,7 +1,7 @@
 ### Hi, wellcome to my profile 👋
 
 
- - 🏫 i’m studying computer science.
+ - 🏫 i’m student of IPI.
  - 🖥️ I’m currently learning javascript and html.
  - 📈 I’m looking for knowledge and experience.
 
